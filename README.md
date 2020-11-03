@@ -5,4 +5,4 @@
 [![KTT24's github stats](https://github-readme-stats.vercel.app/api?username=KTT24&theme=vue&show_icons=true)](https://github.com/KTT24/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTT24&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTT24&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
