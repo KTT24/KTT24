@@ -8,7 +8,13 @@ I love to make Node.js Applications, and make some stuff for games.
 ![](https://img.shields.io/badge/-Gitpod-informational?style=for-the-badge&logo=gitpod&logoColor=white&color=484b59)
 ![](https://img.shields.io/badge/-Gitpod-informational?style=for-the-badge&logo=gitpod&logoColor=white&color=484b59)
 
->>>>>>>>>>>>>>>>>> [![KTT24's github stats](https://github-readme-stats.vercel.app/api?username=KTT24&icon_color=484b59&title_color=484b59&hide_border=true&show_icons=true)](https://github.com/KTT24/github-readme-stats)
+|[![KTT24's github stats](https://github-readme-stats.vercel.app/api?username=KTT24&icon_color=484b59&title_color=484b59&hide_border=true&show_icons=true)](https://github.com/KTT24/github-readme-stats)|
+|---|
+
+
+
+
+
 
 
 
